@@ -1,4 +1,11 @@
 # Pixi et Pixa ( Nuit du Code )
+
+> The librabry used
+
+<p align = "center">
+  <img src="https://github.com/kitao/pyxel/blob/main/doc/images/pyxel_logo_152x64.png" width = 50% >
+</p>
+
 > First Level
 
 <p align = "center">
