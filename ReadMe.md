@@ -23,7 +23,7 @@ It's a cooperative game that I made with a friend in 6 hours, it was a contest o
 
 ## 💻 Python library to install :
 
-* pygame `pip install pyxel`
+* [pyxel](https://github.com/kitao/pyxel) `pip install pyxel`
 
 ## :mailbox: Contact me : 💬
 - 📧 Mail : [matthieu.gaudel04@gmail.com](mailto:matthieu.gaudel04@gmail.com)
